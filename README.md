@@ -22,6 +22,7 @@ As a hypothetical applicant for this role, I was tasked with:
     -   Leveraged Power BI to create clear and compelling visualizations of the query outputs, facilitating easy interpretation of the insights.
 3.  **Actionable Insights:**
     -   Derived actionable insights from the visualizations to support data-driven decision-making.
+🔗 Live Report: [**Ad-hoc-Analysis**](https://app.powerbi.com/view?r=eyJrIjoiYmRkYzk1NWUtNTBjYi00MjNmLTgzMWItZjAwODAwMDhlNWM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
 
 ## Files in this Repository:
 
