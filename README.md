@@ -3,7 +3,6 @@
 AtliQ Hardwares is a fictional leading computer hardware producer in India with a global presence. The company is committed to leveraging data analytics to drive smart, data-informed decisions.
 
 
-
 **Challenge:**
 
 
