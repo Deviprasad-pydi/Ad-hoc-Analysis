@@ -33,7 +33,7 @@ As a hypothetical applicant for this role, I was tasked with:
 ## How to Use:
 
 -   **SQL Queries:**
-    -   Navigate to the `SQL Queries/` folder.
+    -   Navigate to the `SQL Queries/` file.
     -   Run the SQL scripts in your MySQL environment to extract the relevant data.
 -   **Power BI Visualizations:**
     -   Open the Power BI files in Power BI Desktop to explore the data visualizations.
