@@ -50,9 +50,6 @@ As a hypothetical applicant for this role, I was tasked with:
 
 * `SQL Queries/`: File containing SQL scripts used to extract data.
 
-* `Power BI Visualizations/`: Folder containing Power BI file with data visualizations.
-
-
 
 **How to Use:**
 
