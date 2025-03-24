@@ -68,4 +68,4 @@ As a hypothetical applicant for this role, I was tasked with:
 
 This project demonstrates my ability to effectively handle complex data queries and translate findings into insightful visualizations using Power BI. It highlights my technical proficiency in SQL and my capability to present data in a manner that supports business intelligence.
 
-🔗 Full Report:[**Ad-hoc-Analysis**]([https://app.powerbi.com/view?r=eyJrIjoiZjhiZDkyZWItOWExNS00YTAxLWIzMGYtMTM4ZWFmZTJjMzc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=2774de74963a2582c67e](https://app.powerbi.com/view?r=eyJrIjoiYmRkYzk1NWUtNTBjYi00MjNmLTgzMWItZjAwODAwMDhlNWM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
+🔗 Full Report:  [**Ad-hoc-Analysis**](https://app.powerbi.com/view?r=eyJrIjoiYmRkYzk1NWUtNTBjYi00MjNmLTgzMWItZjAwODAwMDhlNWM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
