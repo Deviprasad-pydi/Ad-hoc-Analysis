@@ -45,18 +45,7 @@ As a hypothetical applicant for this role, I was tasked with:
     * Derived actionable insights from the visualizations to support data-driven decision-making.
 
 
-
-**Outcome:**
-
-
-
-This project demonstrates my ability to effectively handle complex data queries and translate findings into insightful visualizations using Power BI. It highlights my technical proficiency in SQL and my capability to present data in a manner that supports business intelligence.
-
-
-
 **Files in this Repository:**
-
-
 
 * `ad-hoc-requests.pdf`: Document containing the 10 ad hoc business requests.
 
@@ -69,7 +58,6 @@ This project demonstrates my ability to effectively handle complex data queries 
 **How to Use:**
 
 
-
 * **SQL Queries:**
 
     * Navigate to the `SQL Queries/` folder.
@@ -80,6 +68,8 @@ This project demonstrates my ability to effectively handle complex data queries 
 
     * Open the Power BI files in Power BI Desktop to explore the data visualizations.
 
+**Conclusion:**
 
 
-This project showcases my skills in data analysis, SQL querying, and data visualization within a business context, emphasizing my ability to extract and communicate actionable insights from data.
+
+This project demonstrates my ability to effectively handle complex data queries and translate findings into insightful visualizations using Power BI. It highlights my technical proficiency in SQL and my capability to present data in a manner that supports business intelligence.
