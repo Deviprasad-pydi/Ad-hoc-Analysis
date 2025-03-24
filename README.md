@@ -3,7 +3,7 @@
 AtliQ Hardwares is a fictional leading computer hardware producer in India with a global presence. The company is committed to leveraging data analytics to drive smart, data-informed decisions.
 
 
-**Challenge:**
+##Challenge:
 
 
 
@@ -11,7 +11,7 @@ AtliQ Hardwares identified a gap in their ability to make quick, smart data-info
 
 
 
-**My Task:**
+##My Task:
 
 
 
@@ -27,7 +27,7 @@ As a hypothetical applicant for this role, I was tasked with:
 
 
 
-**My Approach:**
+##My Approach:**
 
 
 
@@ -44,14 +44,14 @@ As a hypothetical applicant for this role, I was tasked with:
     * Derived actionable insights from the visualizations to support data-driven decision-making.
 
 
-**Files in this Repository:**
+##Files in this Repository:
 
 * `ad-hoc-requests.pdf`: Document containing the 10 ad hoc business requests.
 
 * `SQL Queries/`: File containing SQL scripts used to extract data.
 
 
-**How to Use:**
+##How to Use:
 
 
 * **SQL Queries:**
@@ -64,8 +64,8 @@ As a hypothetical applicant for this role, I was tasked with:
 
     * Open the Power BI files in Power BI Desktop to explore the data visualizations.
 
-**Conclusion:**
-
-
+##Conclusion:
 
 This project demonstrates my ability to effectively handle complex data queries and translate findings into insightful visualizations using Power BI. It highlights my technical proficiency in SQL and my capability to present data in a manner that supports business intelligence.
+
+🔗 Full Report:[**Ad-hoc-Analysis**]([https://app.powerbi.com/view?r=eyJrIjoiZjhiZDkyZWItOWExNS00YTAxLWIzMGYtMTM4ZWFmZTJjMzc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true&pageName=2774de74963a2582c67e](https://app.powerbi.com/view?r=eyJrIjoiYmRkYzk1NWUtNTBjYi00MjNmLTgzMWItZjAwODAwMDhlNWM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
